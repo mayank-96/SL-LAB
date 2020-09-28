@@ -1,5 +1,3 @@
-![Screenshot (44)](https://user-images.githubusercontent.com/62810976/94401228-e63e7e00-0187-11eb-9fa1-a3d58f864128.png)
-
 # ToDo App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
